@@ -1,0 +1,23 @@
+{
+  "name": "sudoku-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sudoku.js",
+  "dependencies": {
+    "sudokus": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gray-fox-2017/sudoku-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gray-fox-2017/sudoku-3/issues"
+  },
+  "homepage": "https://github.com/gray-fox-2017/sudoku-3#readme"
+}
